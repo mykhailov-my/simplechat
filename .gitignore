@@ -1,0 +1,8 @@
+.vscode
+\venv
+db.sqlite3
+.DS_Store
+config/settings/dev.py
+.env
+*.pid
+*.mo
